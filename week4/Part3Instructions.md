@@ -203,6 +203,3 @@ Add new event handler to your closure to do something more to the plants; for ex
 
 [Review your CSS knowledge](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/20)
 
-## Assignment
-
-[Work a bit more with the DOM](assignment.md)
