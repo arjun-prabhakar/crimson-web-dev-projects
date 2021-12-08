@@ -255,6 +255,3 @@ To complete the post-lecture quiz, go through this Learn module: [Style your HTM
 
 [Review your CSS knowledge](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/18)
 
-## Assignment
-
-[CSS Refactoring](assignment.md)
