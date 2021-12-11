@@ -10,21 +10,7 @@ You're going to use the JavaScript, HTML and CSS skills you have built up so far
 
 ![demo](images/demo.gif)
 
-## Prerequisites
-
-This lesson assumes you're familiar with the following concepts:
-
-- Creating text input and button controls
-- CSS and setting styles using classes
-- JavaScript basics
-  - Creating an array
-  - Creating a random number
-  - Getting the current time
-
 ## Lesson
 
 [Creating a typing game by using event driven programming](./typing-game/README.md)
 
-## Credits
-
-Written with ♥️ by [Christopher Harrison](http://www.twitter.com/geektrainer)
