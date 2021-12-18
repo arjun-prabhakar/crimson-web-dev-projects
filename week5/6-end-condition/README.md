@@ -204,19 +204,6 @@ The above will start a HTTP Server on address `http://localhost:5000`. Open up a
 👽 💥 🚀 Congratulations, Captain! Your game is complete! Well done! 🚀 💥 👽
 
 ---
-
-## 🚀 Challenge
-
-Add a sound! Can you add a sound to enhance your game play, maybe when there's a laser hit, or the hero dies or wins? Have a look at this [sandbox](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_audio_play) to learn how to play sound using JavaScript
-
 ## Post-Lecture Quiz
 
 [Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/40)
-
-## Review & Self Study
-
-Your assignment is to create a fresh sample game, so explore some of the interesting games out there to see what type of game you might build.
-
-## Assignment
-
-[Build a Sample Game](assignment.md)
