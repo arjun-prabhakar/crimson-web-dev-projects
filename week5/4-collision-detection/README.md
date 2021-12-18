@@ -15,10 +15,6 @@ In this lesson you will learn how to shoot lasers with JavaScript! We will add t
 
 In short, you -- *the hero* -- need to hit all enemies with a laser before they manage to move to the bottom of the screen.
 
-✅ Do a little research on the very first computer game ever written. What was its functionality?
-
-Let's be heroic together!
-
 ## Collision detection
 
 How do we do collision detection? We need to think of our game objects as rectangles moving about. Why is that you might ask? Well, the image used to draw a game object is a rectangle: it has an `x`, `y`, `width` and `height`.
@@ -280,18 +276,6 @@ At this point, your game has some functionality! You can navigate with your arro
 
 ---
 
-## 🚀 Challenge
-
-Add an explosion! Take a look at the game assets in [the Space Art repo](../solution/spaceArt/readme.txt) and try to add an explosion when the laser hits an alien
-
 ## Post-Lecture Quiz
 
 [Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/36)
-
-## Review & Self Study
-
-Experiment with the intervals in your game thus far. What happens when you change them? Read more about [JavaScript timing events](https://www.freecodecamp.org/news/javascript-timing-events-settimeout-and-setinterval/).
-
-## Assignment
-
-[Explore collisions](assignment.md)
