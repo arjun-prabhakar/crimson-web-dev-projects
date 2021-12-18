@@ -207,18 +207,7 @@ As things gets more complicated when your game grows, this pattern stays the sam
 
 ---
 
-## 🚀 Challenge
-
-Think about how the pub-sub pattern can enhance a game. Which parts should emit events, and how should the game react to them? Now's your chance to get creative, thinking of a new game and how its parts might behave.
-
 ## Post-Lecture Quiz
 
 [Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/30)
 
-## Review & Self Study
-
-Learn more about Pub/Sub by [reading about it](https://docs.microsoft.com/azure/architecture/patterns/publisher-subscriber?WT.mc_id=academic-13441-cxa).
-
-## Assignment
-
-[Mock up a game](assignment.md)
