@@ -165,11 +165,6 @@ The above will start a HTTP Server on address `http://localhost:5000`. Open up a
            hero.decrementLife();
         });
         ```
-
-✅ Do a little research to discover other games that are created using JavaScript/Canvas. What are their common traits?
-
-By the end of this work, you should see the small 'life' ships at the bottom right, points at the bottom left, and you should see your life count decrement as you collide with enemies and your points increment when you shoot enemies. Well done! Your game is almost complete.
-
 ---
 
 ## Post-Lecture Quiz
