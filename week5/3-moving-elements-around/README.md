@@ -371,18 +371,6 @@ The above will start a HTTP Server on address `http://localhost:5000`. Open up a
 
 ---
 
-## 🚀 Challenge
-
-As you can see, your code can turn into 'spaghetti code' when you start adding functions and variables and classes. How can you better organize your code so that it is more readable? Sketch out a system to organize your code, even if it still resides in one file.
-
 ## Post-Lecture Quiz
 
 [Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/34)
-
-## Review & Self Study
-
-While we're writing our game without using frameworks, there are many JavaScript-based canvas frameworks for game development. Take some time to do some [reading about these](https://github.com/collections/javascript-game-engines).
-
-## Assignment
-
-[Comment your code](assignment.md)
