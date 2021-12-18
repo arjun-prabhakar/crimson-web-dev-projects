@@ -142,7 +142,7 @@ Locate the files that have been created for you in the `your-work` sub folder. I
 -| package.json
 ```
 
-Open the copy of this folder in Visual Studio Code. You need to have a local development environment setup, preferably with Visual Studio Code with NPM and Node installed. If you don't have `npm` set up on your computer, [here's how to do that](https://www.npmjs.com/get-npm).
+Open the copy of this folder in an IDE (preferably Visual Studio Code or yiur usual IDE). You need to have a local development environment setup, preferably with Visual Studio Code with NPM and Node installed. If you don't have `npm` set up on your computer, [here's how to do that](https://www.npmjs.com/get-npm).
 
 Start your project by navigating to the `your_work` folder:
 
@@ -199,18 +199,6 @@ Please try solving it yourself first but if you get stuck, have a look at a [sol
 
 ---
 
-## 🚀 Challenge
-
-You've learned about drawing with the 2D-focused Canvas API; take a look at the [WebGL API](https://developer.mozilla.org/docs/Web/API/WebGL_API), and try to draw a 3D object.
-
 ## Post-Lecture Quiz
 
 [Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/32)
-
-## Review & Self Study
-
-Learn more about the Canvas API by [reading about it](https://developer.mozilla.org/docs/Web/API/Canvas_API).
-
-## Assignment
-
-[Play with the Canvas API](assignment.md)
