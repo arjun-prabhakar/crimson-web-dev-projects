@@ -172,18 +172,6 @@ By the end of this work, you should see the small 'life' ships at the bottom rig
 
 ---
 
-## 🚀 Challenge
-
-Your code is almost complete. Can you envision your next steps?
-
 ## Post-Lecture Quiz
 
 [Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/38)
-
-## Review & Self Study
-
-Research some ways that you can increment and decrement game scores and lives. There are some interesting game engines like [PlayFab](https://playfab.com). How could using one of these would enhance your game?
-
-## Assignment
-
-[Build a Scoring Game](assignment.md)
