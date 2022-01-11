@@ -486,16 +486,6 @@ ReactDOM.render(<HexaColor />, rootElement)
 
 ![News Letter](../images/news_letter_design.png)
 
-## Exercises: Level 3
-
-1.  Use the given hexadecimal color generator in the example to create these random colors
+3.  Use the given hexadecimal color generator in the example to create these random colors
 
 ![Hexadecimal colors](../images/hexadecimal_color_exercise.png)
-
-2. Use functional component to design the following user card.
-
-   ![User Card](../images/user_card_design_jsx.png)
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 3](../30-Days-Of-React/03_Day_Setting_Up/03_setting_up.md) | [Day 5 >>](../05_Day_Props/05_props.md)
