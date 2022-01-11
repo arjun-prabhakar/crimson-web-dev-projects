@@ -736,9 +736,3 @@ The boilerplate code can be found [here](../03/../03_Day_Setting_Up/30-days-of-r
 2. Use h1, p, input and button HTML elements to create the following design using JSX
 
 ![News Letter](../images/news_letter_design.png)
-
-## Exercises: Level 3
-
-1. Design the following user card.
-
-![User Card](../images/user_card_design_jsx.png)
