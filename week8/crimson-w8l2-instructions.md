@@ -1,22 +1,3 @@
-<div align="center">
-  <h1> 30 Days Of React: Props </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 4](../04_Day_Component/04_components.md) | [Day 6 >>](../06_Day_Map_List_Keys/06_map_list_keys.md)
-
-![30 Days of React banner](../images/30_days_of_react_banner_day_5.jpg)
 
 - [Props](#props)
   - [Props in Functional Component](#props-in-functional-component)
@@ -1093,7 +1074,3 @@ We will cover propTypes in detail in other sections.
 2. Use functional component to design the following user card.
 
 ![User Card](../images/user_card_design_jsx.png)
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 4](../04_Day_Component/04_components.md) | [Day 6 >>](../06_Day_Map_List_Keys/06_map_list_keys.md)
