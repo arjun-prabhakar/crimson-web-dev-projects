@@ -29,11 +29,7 @@ Node is a JavaScript runtime environment that allows JavaScript to run on the se
 
 If you do not have node, install it. Install [node.js](https://nodejs.org/en/).
 
-![Node download](../images/download_node.png)
-
 After downloading double click and install
-
-![Install node](../images/install_node.png)
 
 We can check if node is installed on our local machine, by opening our device terminal or command prompt, and writing the following command:
 
@@ -88,8 +84,6 @@ A Package is a module or a collection of modules. For instance, React, ReactDOM 
 ## Node Package Manager(NPM)
 
 NPM was created in 2010. You do not need to install NPM separately - when you install node you will have also NPM. NPM is a default package manager for Node.js. It allows users to consume and distribute JavaScript modules that are available in the registry. NPM allows to create packages, use packages and distribute packages. NMP also played quite a big role in the growth of JavaScript. Currently, there is more than 350,000 packages in the NPM registry. Let's see the create-react-app on NPM registry. The number of downloads show the popularity of the package.
-
-![NPM create-react-app](../images/npm_registry.png)
 
 ## Visual Studio Code
 
@@ -156,8 +150,6 @@ Asabeneh@DESKTOP-KGC1AKC MINGW64 ~/Desktop/30-days-of-react (master)
 Now your React app should run at localhost 3000. Go to the App.js and modify the content by writing some text, you will see the latest changes on the browser.
 To stop the server, press Ctr + C in the CLI.
 
-![React Starting](../images/react_app_starting.png)
-
 ## React Boilerplate
 
 Let's see the React boilerplate, which has been created by create-react-app. Whenever you create a new project, you run create-react-app and name of the project.
@@ -190,13 +182,13 @@ It is good to know these folders and files.
 - README.md - Markdown file to write documentation
 - yarn.lock or package-lock.json - a means to lock the version of the package
 
-![React Boilerplate](../images/react_boilerplate.png)
+![React Boilerplate]
 
 Now lets remove all the files, which we do not need at the moment, and leave only the files we need right now.
 
 After removing most of the files, the structure of the boilerplate looks like this:
 
-![React Boilerplate Cleaned](../images/react_bolier_plate_cleaned.png)
+![React Boilerplate Cleaned]
 
 Now lets write code on index.js. First of, we should import React and ReactDOM. React allows us to write JSX and ReactDOM to render the JSX on the DOM. ReactDOM has a render method. Let's use all the JSX elements we created on Day 2. The ReactDOM render method takes two parameters, a JSX or a component and the root.
 
@@ -246,7 +238,7 @@ Asabeneh@DESKTOP-KGC1AKC MINGW64 ~/Desktop/30-days-of-react (master)
 
 If you do not have any bugs, your React app will be launched on the browser.
 
-![JSX using create react app](../images/jsx_use_create_react_app.png)
+![JSX using create react app]
 
 Let's write more JSX elements and render them on the browser. This expression is a JSX element which is made of h2 HTML element.
 
@@ -287,7 +279,7 @@ const rootElement = document.getElementById('root')
 ReactDOM.render(header, rootElement)
 ```
 
-![JSX using create react app](../images/rendering_more_jsx_content_create_react_app.png)
+![JSX using create react app]
 
 Now, lets add all the JSX we created on Day 2.
 
@@ -343,7 +335,7 @@ ReactDOM.render(app, rootElement)
 //  ReactDOM.render([header, main, footer], rootElement)
 ```
 
-![JSX using create react app to render more jsx](../images/rendering_multiple_jsx_elements_create-react_app.png)
+![JSX using create react app to render more jsx]
 
 ## Styles in JSX
 
@@ -413,7 +405,7 @@ const rootElement = document.getElementById('root')
 ReactDOM.render(app, rootElement)
 ```
 
-![Inline styling JSX](../images/styling_jsx_inline_create_react_app.png)
+![Inline styling JSX]
 
 Now, lets apply an internal style, we put all the CSS in the header of the index.html.
 
@@ -476,7 +468,7 @@ const rootElement = document.getElementById('root')
 ReactDOM.render(app, rootElement)
 ```
 
-![Inline styling JSX](../images/js_internal_style_create_react_app.png)
+![Inline styling JSX]
 
 ## Injecting data to JSX elements
 
@@ -577,8 +569,7 @@ const rootElement = document.getElementById('root')
 ReactDOM.render(app, rootElement)
 ```
 
-![Inline styling JSX](../images/inecting_data_to_jsx_create_react_app.png)
-
+![Inline styling JSX]
 ## Importing Media Objects in React
 
 How do we import images, video and audio in React? Let's see how we import images first.
@@ -601,7 +592,7 @@ const rootElement = document.getElementById('root')
 ReactDOM.render(user, rootElement)
 ```
 
-![Rendering image](../images/rendering_image.png)
+![Rendering image]
 
 Let's inject the user inside the main JSX element and see the result:
 
@@ -709,7 +700,7 @@ const rootElement = document.getElementById('root')
 ReactDOM.render(app, rootElement)
 ```
 
-![All JSX together final](../images/all_jsx_final.png)
+![All JSX together final]
 
 The boilerplate code can be found [here](../03/../03_Day_Setting_Up/30-days-of-react_boilerplate)
 
@@ -731,14 +722,14 @@ The boilerplate code can be found [here](../03/../03_Day_Setting_Up/30-days-of-r
 ## Exercises: Level 2
 
 1. Import and render the following images
-   ![Front end](../images/frontend_technologies.png)
+   ![Front end]
 
 2. Use h1, p, input and button HTML elements to create the following design using JSX
 
-![News Letter](../images/news_letter_design.png)
+![News Letter]
 
 ## Exercises: Level 3
 
 1. Design the following user card.
 
-![User Card](../images/user_card_design_jsx.png)
+![User Card]
